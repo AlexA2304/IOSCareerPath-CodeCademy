@@ -5,6 +5,8 @@ Welcome to my repository for the Codecademy iOS Career Path! This repo serves as
 
 In this course, I completed a total of 51 lessons, 26 module projects, and 4 portfolio projects, earning a certificate of completion. The technologies I focused on include Swift, SwiftUI, and Firebase.
 
+![Certification](IOSCourse.png)
+
 ## Topics & Learning Journey
 
 ### Overview
