@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		46AD4FCE2A9405D600FDE764 /* Pokidex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokidex.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		46AD4FC72A9405CE00FDE764 = {
+			isa = PBXGroup;
+			children = (
+				46AD4FCE2A9405D600FDE764 /* Pokidex.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		46AD4FC82A9405CE00FDE764 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1420;
+			};
+			buildConfigurationList = 46AD4FCB2A9405CE00FDE764 /* Build configuration list for PBXProject "Module7-Project1-Pokidex" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 46AD4FC72A9405CE00FDE764;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		46AD4FCC2A9405CE00FDE764 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		46AD4FCD2A9405CE00FDE764 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		46AD4FCB2A9405CE00FDE764 /* Build configuration list for PBXProject "Module7-Project1-Pokidex" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				46AD4FCC2A9405CE00FDE764 /* Debug */,
+				46AD4FCD2A9405CE00FDE764 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 46AD4FC82A9405CE00FDE764 /* Project object */;
+}

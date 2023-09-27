@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		46AD4FB62A94000A00FDE764 /* RockPaperScissors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RockPaperScissors.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		46AD4FAF2A93FFF400FDE764 = {
+			isa = PBXGroup;
+			children = (
+				46AD4FB62A94000A00FDE764 /* RockPaperScissors.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		46AD4FB02A93FFF400FDE764 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1420;
+			};
+			buildConfigurationList = 46AD4FB32A93FFF400FDE764 /* Build configuration list for PBXProject "Module5-Project1-RockPaperScissors" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 46AD4FAF2A93FFF400FDE764;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		46AD4FB42A93FFF400FDE764 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		46AD4FB52A93FFF400FDE764 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		46AD4FB32A93FFF400FDE764 /* Build configuration list for PBXProject "Module5-Project1-RockPaperScissors" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				46AD4FB42A93FFF400FDE764 /* Debug */,
+				46AD4FB52A93FFF400FDE764 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 46AD4FB02A93FFF400FDE764 /* Project object */;
+}

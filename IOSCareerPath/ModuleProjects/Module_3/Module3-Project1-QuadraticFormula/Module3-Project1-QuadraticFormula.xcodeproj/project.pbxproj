@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		46AD4F962A93F3D500FDE764 /* QuadraticFormula.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuadraticFormula.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		46AD4F8F2A93F3C700FDE764 = {
+			isa = PBXGroup;
+			children = (
+				46AD4F962A93F3D500FDE764 /* QuadraticFormula.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		46AD4F902A93F3C700FDE764 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1420;
+			};
+			buildConfigurationList = 46AD4F932A93F3C700FDE764 /* Build configuration list for PBXProject "Module3-Project1-QuadraticFormula" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 46AD4F8F2A93F3C700FDE764;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		46AD4F942A93F3C700FDE764 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		46AD4F952A93F3C700FDE764 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		46AD4F932A93F3C700FDE764 /* Build configuration list for PBXProject "Module3-Project1-QuadraticFormula" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				46AD4F942A93F3C700FDE764 /* Debug */,
+				46AD4F952A93F3C700FDE764 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 46AD4F902A93F3C700FDE764 /* Project object */;
+}

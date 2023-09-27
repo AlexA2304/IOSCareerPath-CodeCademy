@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		46AD50342A9420B700FDE764 /* GreenThumb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreenThumb.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		46AD502D2A9420AD00FDE764 = {
+			isa = PBXGroup;
+			children = (
+				46AD50342A9420B700FDE764 /* GreenThumb.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		46AD502E2A9420AD00FDE764 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1420;
+			};
+			buildConfigurationList = 46AD50312A9420AD00FDE764 /* Build configuration list for PBXProject "Module11-Project3-GreenThumb" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 46AD502D2A9420AD00FDE764;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		46AD50322A9420AD00FDE764 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		46AD50332A9420AD00FDE764 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		46AD50312A9420AD00FDE764 /* Build configuration list for PBXProject "Module11-Project3-GreenThumb" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				46AD50322A9420AD00FDE764 /* Debug */,
+				46AD50332A9420AD00FDE764 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 46AD502E2A9420AD00FDE764 /* Project object */;
+}

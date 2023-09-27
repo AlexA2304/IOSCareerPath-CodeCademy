@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		46AD4FAE2A93FDEC00FDE764 /* Morse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Morse.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		46AD4FA72A93FDDF00FDE764 = {
+			isa = PBXGroup;
+			children = (
+				46AD4FAE2A93FDEC00FDE764 /* Morse.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		46AD4FA82A93FDDF00FDE764 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1420;
+			};
+			buildConfigurationList = 46AD4FAB2A93FDDF00FDE764 /* Build configuration list for PBXProject "Module4-Project2-MorseDecoder" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 46AD4FA72A93FDDF00FDE764;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		46AD4FAC2A93FDDF00FDE764 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		46AD4FAD2A93FDDF00FDE764 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		46AD4FAB2A93FDDF00FDE764 /* Build configuration list for PBXProject "Module4-Project2-MorseDecoder" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				46AD4FAC2A93FDDF00FDE764 /* Debug */,
+				46AD4FAD2A93FDDF00FDE764 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 46AD4FA82A93FDDF00FDE764 /* Project object */;
+}
